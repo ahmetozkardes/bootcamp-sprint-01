@@ -1,0 +1,13 @@
+{
+  "name": "bootcamp-sprint-01",
+  "version": "1.0.0",
+  "description": "Bootcamp Sprint 1 - JavaScript fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Ahmet Özkardeş",
+  "license": "ISC",
+  "type": "commonjs"
+}
